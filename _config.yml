@@ -1,0 +1,5 @@
+# in _config.yml
+title: "Tims Boek"
+logo: images/zebra.jpg
+execute:
+  execute_notebooks: "off"
